@@ -1,0 +1,8 @@
+Method,Name,Error,Occurrences
+GET,4. Contacto,HTTPError('403 Client Error: Forbidden for url: 4. Contacto'),4
+GET,3. Blog,HTTPError('503 Server Error: Service Temporarily Unavailable for url: 3. Blog'),4
+GET,1. Homepage,HTTPError('503 Server Error: Service Temporarily Unavailable for url: 1. Homepage'),8
+GET,2. Páginas de Servicios,HTTPError('503 Server Error: Service Temporarily Unavailable for url: 2. Páginas de Servicios'),21
+GET,4. Contacto,HTTPError('503 Server Error: Service Temporarily Unavailable for url: 4. Contacto'),3
+GET,2. Páginas de Servicios,HTTPError('403 Client Error: Forbidden for url: 2. Páginas de Servicios'),15
+GET,3. Blog,HTTPError('403 Client Error: Forbidden for url: 3. Blog'),1
